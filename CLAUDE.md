@@ -10,8 +10,14 @@ This is the structure of markdown files in the `/types` folder. Title of the fil
 ---
 name: Product type 
 target: Area that product targets (Oral/Skin/Hair/Supplement/Medication, etc.)
+date: Date of the research in this file
 ---
-Explanation of what this product type is and why its necessary for health
+Sources: sources used in formulating the answer with hyperlinks
+# TLDR
+Very brief explanation of what to look for and what to avoid and why, as well as a short copy/paste phrase that the user should use to look for viable options.
+
+# Full Explanation
+Full explanation of what this product type is and why its necessary for health
 ```
 # Product Structure
 This is the structure of markdown files in the `/products` folder. Title of the file is the product name
