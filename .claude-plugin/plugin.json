@@ -1,0 +1,8 @@
+{
+  "name": "healthright",
+  "description": "A plugin for keeping track of health",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joseph Mitchell"
+  }
+}
